@@ -57,6 +57,7 @@ public class Servlet1 extends HttpServlet {
 		//practice 3   
 
 		System.out.println("Shuan");
+		System.out.println("Shuan Jhe Test");
 
 
 	}
